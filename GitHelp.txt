@@ -17,4 +17,4 @@ git remote add origin https://github.com/arzy-54-2/oop-64-2.git
 git status
 git add .
 git commit -m "added: lesson1"
-git push origin main или master
+git push origin main или main
