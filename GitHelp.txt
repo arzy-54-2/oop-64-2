@@ -18,3 +18,5 @@ git status
 git add .
 git commit -m "added: lesson1"
 git push origin main или master
+
+git branch
