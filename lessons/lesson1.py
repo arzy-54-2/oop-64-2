@@ -36,3 +36,6 @@ gendalf = MageHero("Gendalf")
 
 # gendalf.cast_spell()
 # asuna.action()
+
+
+test = 11
