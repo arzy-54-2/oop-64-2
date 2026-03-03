@@ -20,3 +20,8 @@ git commit -m "added: lesson1"
 git push origin main или master
 
 git branch
+git branch name_branch
+git switch name_branch
+
+git switch -c name_branch
+
