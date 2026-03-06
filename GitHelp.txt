@@ -20,3 +20,17 @@ git commit -m "added: lesson1"
 git push origin main или master
 
 git branch
+
+production
+
+stage|test
+
+feat/register
+feat/create_order
+feat/filter_news
+
+"feat: added register code in file name.py #1021"
+"fix: fixed register in line 123"
+"update: register added email logic"
+
+
