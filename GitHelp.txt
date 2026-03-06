@@ -35,3 +35,9 @@ feat/filter_news
 
 
 git merge branch_name
+git pull origin main
+
+
+cd ../      выйти их папки
+cd dir_name перейти в указанную папку
+ls просмотреть что есть с этой папке
