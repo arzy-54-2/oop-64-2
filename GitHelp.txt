@@ -34,3 +34,4 @@ feat/filter_news
 "update: register added email logic"
 
 
+git merge branch_name
