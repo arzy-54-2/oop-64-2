@@ -57,8 +57,11 @@ class Video:
         self.view_count = 0
 
 
-
+    @property
+    @staticmethod
+    @classmethod
     def view_count_up(self, user):
+        isinstance(user, Video)
         pass
 
     def __call__(self, *args, **kwargs):
