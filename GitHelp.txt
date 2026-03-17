@@ -41,3 +41,15 @@ git pull origin main
 cd ../      выйти их папки
 cd dir_name перейти в указанную папку
 ls просмотреть что есть с этой папке
+
+
+py -m venv name_venv
+python -m venv name_venv
+python3 -m venv name_venv
+
+source venv/bin/activate
+
+venv\Scripts\activate
+source venv\Scripts\activate
+
+

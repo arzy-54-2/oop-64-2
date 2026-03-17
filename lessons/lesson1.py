@@ -22,7 +22,6 @@ class Hero:
 # Экземпляр\Объектом на основе класса
 kirito = Hero("Kirito")
 asuna = Hero("Asuna")
-kirito.action()
 
 
 # Дочерний класс
@@ -39,3 +38,12 @@ gendalf = MageHero("Gendalf")
 
 
 test = 11
+
+__all__ = (
+    "Hero",
+    "MageHero",
+)
+
+if __name__ == "__main__":
+    kirito.action()
+
